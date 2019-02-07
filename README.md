@@ -23,12 +23,7 @@ Programmed on request by AtlasServerWelten [Discord] (ttps://discord.gg/R3H5BEa)
 A ATLAS MMO - Project from Impact-Gaming & Partner
 
 
-
-__Steamstore__
-https://store.steampowered.com/app/834910/ATLAS/
-
-
-__Attention!__
+#Attention!
 
 Don't forget to start redis before you start this AtlasServerUpdater.
 
