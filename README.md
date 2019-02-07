@@ -8,3 +8,5 @@ Idea from https://arkforum.de/thread/717-ark-windows-server-einrichten-autoupdat
 Use at your own risk! 2019
 
 Be sure to change the Script paths.
+
+Steamstore: https://store.steampowered.com/app/834910/ATLAS/
