@@ -4,7 +4,7 @@
 :: Idea from https://arkforum.de/thread/717-ark-windows-server-einrichten-autoupdate/
 :: Use at your own risk! 2019
 
-:: Be sure to change the Script Path.
+:: Be sure to change the Script paths.
 
 @ECHO off
 COLOR 0A
