@@ -1,4 +1,8 @@
 # ATLAS MMO - SERVERUPDATER by 
+
+**WARNING**
+This tool got written after midnight, so expect some spelling mistakes or even bugs
+
 https://nebelbank.net => https://github.com/NebelRebell
 
 https://Moonlight-Gaming.eu => https://github.com/BrutalBirdie
