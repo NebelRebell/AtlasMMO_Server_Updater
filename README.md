@@ -1,8 +1,9 @@
-# ATLAS MMO - SERVERUPDATER by 
+# ATLAS MMO - SERVERUPDATER
 
 __WARNING__
+This tool got written after midnight, so expect some spelling mistakes or even bugs...we had to defend ourselves against werewolves and others during the scripts...we will update soon ;)
 
-This tool got written after midnight, so expect some spelling mistakes or even bugs
+## Authors
 
 https://nebelbank.net => https://github.com/NebelRebell
 
@@ -14,17 +15,17 @@ Use at your own risk! 2019
 
 Be sure to change the Script paths.
 
-Steamstore: https://store.steampowered.com/app/834910/ATLAS/
+__Steamstore__
+https://store.steampowered.com/app/834910/ATLAS/
 
-**Attention!**
+__Attention!__
 Don't forget to start redis before you start this AtlasServerUpdater.
 I used https://nssm.cc/ to make redis a Windows Service so I don't have to deal with that "step"...
 
-## Got no Server yet?
-
+__Got no Server yet?__
 Well this tool would also install the server for you, but that's not the main point of this tool :)
 
-Steps
+__Steps__
 1. Make Folder like "C:/Atlas"
 2. Install [steamcmd](https://developer.valvesoftware.com/wiki/SteamCMD)
 3. Change settings / paths 
