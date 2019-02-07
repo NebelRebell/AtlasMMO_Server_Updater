@@ -18,9 +18,9 @@ Be sure to change the Script paths.
 
 
 ## ATLAS MMO Projekt
-Programmed on request by AtlasServerWelten [Discord] (ttps://discord.gg/R3H5BEa)
+Programmed on request by AtlasServerWelten [Discord] (https://discord.gg/R3H5BEa)
 
-A ATLAS MMO - Project from Impact-Gaming & Partner
+A ATLAS MMO - Project from Impact-Gaming & Partner that we support!
 
 
 ## Attention!
