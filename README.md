@@ -27,7 +27,7 @@ Don't forget to start redis before you start this AtlasServerUpdater.
 I used https://nssm.cc/ to make redis a Windows Service so I don't have to deal with that "step"...
 
 
-_Got no Server yet?__
+## Got no Server yet?
 
 Well this tool would also install the server for you, but that's not the main point of this tool :)
 
