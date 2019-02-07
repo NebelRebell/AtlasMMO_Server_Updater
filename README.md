@@ -16,17 +16,21 @@ Use at your own risk! 2019
 
 Be sure to change the Script paths.
 
+
 __Steamstore__
 https://store.steampowered.com/app/834910/ATLAS/
+
 
 __Attention!__
 
 Don't forget to start redis before you start this AtlasServerUpdater.
 I used https://nssm.cc/ to make redis a Windows Service so I don't have to deal with that "step"...
 
-__Got no Server yet?__
+
+_Got no Server yet?__
 
 Well this tool would also install the server for you, but that's not the main point of this tool :)
+
 
 __Steps__
 1. Make Folder like "C:/Atlas"
