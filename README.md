@@ -16,6 +16,8 @@ Use at your own risk! 2019
 
 Be sure to change the Script paths.
 
+Programmed on request by AtlasServerWelten [Discord] (ttps://discord.gg/R3H5BEa)
+
 
 __Steamstore__
 https://store.steampowered.com/app/834910/ATLAS/
